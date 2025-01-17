@@ -1,0 +1,68 @@
+.response-time-card {
+  border: 2px solid rgb(216, 213, 213);
+  width: 205px;
+  height: 185px;
+  background-color:white;
+  margin-top:-30em;
+  margin-left:0.3em ;
+  border-radius: 10px;
+  color: rgb(113, 109, 109);
+
+  }
+  
+  .response-time-card h3 {
+    margin: 5px;
+    margin-bottom: 15px;
+    font-size: 18px;
+  }
+  
+  .response-time p {
+
+    background-color: rgb(91, 91, 167);
+    margin: 20px;
+    padding: 2px 2px;
+    margin-right: 120px;
+    font-size: 10px;
+    color: whitesmoke;
+    text-align: center;
+  }
+  h5 {
+    background-color:  aliceblue;
+    border:  2px dashed rgb(175, 178, 180);
+    margin: 5px;
+    font-size: 14px;
+    padding: 6px 12px;
+    color: rgb(144, 147, 152);
+  }
+  .percent{
+    font-size: 20px;
+    color: rgb(15, 180, 175);
+
+  }
+  h5 span{
+    color: rgb(238, 52, 71);
+    margin-left: 8px;
+    font-size: 15px;
+    
+
+  }
+  .min{
+    font-size: 14px;
+    color: rgb(12, 79, 134);
+    margin-left: -5px;
+  }
+
+ 
+  
+ h6{
+    margin: 5px;
+    text-align: center;
+    color :black;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .slow{
+    color: rgb(226, 39, 39);
+
+  }
+  

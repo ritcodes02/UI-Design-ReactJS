@@ -1,0 +1,45 @@
+.approach-data-card {
+    border: 2px solid rgb(216, 213, 213);
+    width: 205px;
+    height: 180px;
+    background-color:white;
+    margin-top:-30em;
+    margin-left:0.3em ;
+    border-radius: 10px;
+   color: rgb(113, 109, 109);
+
+  }
+  
+  .approach-data-card h3 {
+    margin: 5px;
+    margin-bottom: 15px;
+    font-size: 18px;
+  }
+  
+  .approach-data-card ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .approach-data-card li {
+    border: 2px solid rgb(164, 164, 234); 
+    margin: 8px;
+    padding: 1px 6px;
+    font-size: 14px;
+  }
+  li span{
+    background-color:rgb(212, 212, 234) ;
+    font-size: 17px;
+    color:  rgb(58, 58, 140);
+    padding: 0 2px;
+  }
+  li span .percent{
+    margin: 1px;
+    font-size: 10px;
+    color: rgb(102, 102, 106);
+  }
+  li  .color{
+    color:  rgb(69, 101, 196);
+    background-color: white;
+  }
+  

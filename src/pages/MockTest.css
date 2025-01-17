@@ -1,0 +1,13 @@
+.mocktest{
+  margin: 100px;
+}
+.compare {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(0 , 0.25fr));
+  }
+  .app-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 0.2fr));
+  background: whitesmoke;
+  margin-left: 20em;
+}

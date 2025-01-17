@@ -1,0 +1,70 @@
+.ruler-container {
+    width: 90%;
+    position: relative;
+    margin: 20px;
+  }
+  
+  .ruler-scale {
+    position: relative;
+    background-color: rgb(225, 222, 240);
+    width: 100%;
+    height: 50px;
+    border-bottom: 2px solid #d3cccc;
+  }
+  
+  .scale {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+  }
+  
+  .tick {
+    
+
+    position: relative;
+    width: 1px;
+    height: 10px;
+    background: #6064e5;
+  }
+  
+  .tick-label {
+    position: absolute;
+    top: 15px;
+    font-size: 12px;
+    transform: translateX(-50%);
+  }
+  
+  .progress-bar {
+    position: absolute;
+    top: 30px;
+    width: 100%;
+    height: 10px;
+    display: flex;
+  }
+  
+  .bar {
+    height: 100%;
+  }
+  
+  .green {
+    background-color: #4caf50;
+  }
+  
+  .red {
+    background-color: #f44336;
+  }
+  
+  .pointer {
+    position: absolute;
+    top: 0;
+    width: 5px;
+    height: 30px;
+    background-color: rgb(126, 126, 222);
+    transform: translateX(-50%);
+  }
+  
+  .description {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  

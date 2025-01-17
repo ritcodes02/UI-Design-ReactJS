@@ -1,0 +1,20 @@
+.cards-container{
+   border: 2px solid rgb(216, 213, 213);
+   width: 270px;
+   height: 220px;
+   background-color:white;
+   margin-top:-45em;
+   margin-left:20em ;
+   border-radius: 10px;
+}
+.cards .down{
+  margin: 10px;
+  color: rgb(113, 109, 109);
+  font-size: 25px;
+}
+.cards p{
+  margin-top: -36px;
+  margin-left: 40px;
+  font-size: 15px;
+  color: rgb(113, 109, 109);
+}

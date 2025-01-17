@@ -1,0 +1,79 @@
+.improvements-card {
+  border: 2px solid rgb(216, 213, 213);
+  width: 205px;
+  height: 185px;
+  background-color:white;
+  margin-top:-30em;
+  margin-left:0.3em ;
+  border-radius: 10px;
+  color: rgb(113, 109, 109);
+
+}
+  
+  .improvements-card h3 {
+    margin: 5px;
+    margin-bottom: 15px;
+    font-size: 18px;
+  }
+  .improvements-card h4 {
+    margin: 5px;
+    margin-bottom: 10px;
+    font-size: 12px;
+    color: rgb(41, 39, 39);
+
+  }
+  
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    margin:5px;
+    font-size: 8px;
+    color: white;
+    
+  }
+  .tags .sub1 {
+    background: #58bdc3;
+    padding: 6px 8px;
+    border-radius: 12px;
+  }
+  .tags .sub2 {
+    background: #e6cd5d;
+    padding: 6px 8px;
+    border-radius: 12px;
+  }.tags .sub3 {
+    background: #58bdc3;
+    padding: 6px 8px;
+    border-radius: 12px;
+  }
+  .tags .sub4 {
+    background: #b03924;
+    padding: 6px 8px;
+    border-radius: 12px; 
+  }
+  .tags .sub5 {
+    background: #58bdc3;
+    padding: 6px 8px;
+    border-radius: 12px;
+  }
+  .tags .sub6 {
+    background: #b1b2b2;
+    padding: 6px 8px;
+    border-radius: 12px;  
+  }
+  .tags .sub7 {
+    background: #b03924;
+    padding: 6px 8px;
+    border-radius: 12px;
+  }
+  .tags .sub8 {
+    background: #e6cd5d;
+    padding: 6px 8px;
+    border-radius: 12px;
+  }
+  .tags .sub9 {
+    background: #58bdc3;
+    padding: 6px 8px;
+    border-radius: 12px;
+  }
+  

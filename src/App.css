@@ -1,0 +1,71 @@
+body, html{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: grid;
+}
+.navbar{
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top: 0; 
+  width:100%;
+  background-color: rgb(51, 52, 53);
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+.firstbench{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 2px;
+  margin-right: 20px;
+  margin-left: 150px;
+  
+}
+.firstbench img{
+  width: 40px;
+  height: 35px;
+  margin-right: 10px;
+  border-radius: 50%; 
+} 
+.firstbench h2 {
+  font-size: 25px;
+  color: white;
+}
+.icon {
+  margin: 0.7em;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  color: #aeafb1; /* Slightly darker text */
+
+}
+.icon h3 {
+  margin-left: 8px;
+  font-size: 15px;
+  color: #aeafb1; /* Slightly darker text */
+}
+.bell{ margin-left: 30px;
+  margin-right: 30px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+
+}
+ .link {
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  color: #249193; /* Link color */
+}
+
+
+
+
+
